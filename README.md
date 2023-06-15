@@ -21,9 +21,3 @@ This is the result of only one day before the end of the Hackathon, its also my 
 
 Note: if you call some APIs with secret keys, better try it once and the PLEASE regenerate that, its not a secure example, better fork it and use your own version with that, I'll shut it down after the Hackathon as well so that nothing happens at the end.
 
-## KV Used in (todo list things)
-
-## Todo Other things
-
-- UI
-- Validation
