@@ -14,7 +14,7 @@ This is the result of only one day before the end of the Hackathon, its also my 
 
 ## How to get started
 
-1. Open Site or use known Workflow URL
+1. Open Site, create a workflow or use known Workflow URL
 2. Edit stuff and mark it as active
 3. trigger the URL
 4. cross fingers that it won't break :)
